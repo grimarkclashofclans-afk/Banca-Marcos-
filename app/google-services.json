@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047454512578",
+    "project_id": "banca-marcos",
+    "storage_bucket": "banca-marcos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047454512578:android:ddce0e300f5f1eae56525b",
+        "android_client_info": {
+          "package_name": "com.banca.collado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8KOBR5_dOoR4RgY2jwFnYjk4HpSPF1aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
